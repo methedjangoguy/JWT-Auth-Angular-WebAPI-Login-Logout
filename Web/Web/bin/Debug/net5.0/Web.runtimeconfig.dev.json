@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DARKSPIDER\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DARKSPIDER\\.nuget\\packages"
+    ]
+  }
+}
